@@ -13,6 +13,6 @@ The following metarials will be covered:
 * Hiearchical Dirichlet process (HDP)
 
 See lectures on nbviewer.com
-* [Lecture 0 - Preliminaries](http://nbviewer.ipython.org/github/arongdari/topic-model-lecture-note/blob/master/lecture0.ipynb)
-* [Lecture 1 - LDA with Sampling](http://nbviewer.ipython.org/github/arongdari/topic-model-lecture-note/blob/master/lecture1-lda.ipynb)
-* [Lecutre 2 - DP with Sampling](http://nbviewer.ipython.org/github/arongdari/topic-model-lecture-note/blob/master/lecture2-bnp.ipynb)
+* [Lecture 0 - Preliminaries](http://nbviewer.ipython.org/github/UnILabKAIST/topic-model-lecture-note/blob/master/lecture0.ipynb)
+* [Lecture 1 - LDA with Sampling](http://nbviewer.ipython.org/github/UnILabKAIST/topic-model-lecture-note/blob/master/lecture1-lda.ipynb)
+* [Lecutre 2 - DP with Sampling](http://nbviewer.ipython.org/github/UnILabKAIST/topic-model-lecture-note/blob/master/lecture2-bnp.ipynb)
